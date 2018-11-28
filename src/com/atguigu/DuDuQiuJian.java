@@ -1,23 +1,25 @@
 package com.atguigu;
 
 /** 
- * @°üÃû com.atguigu
- * @ÀàÃû DuDuQiuJian.java
- * @×÷Õß   ÀîµÀÈô 
- * @´´½¨ÈÕÆÚ 2018Äê11ÔÂ28ÈÕ
- * @ÃèÊö 
- * @°æ±¾ V1.0
+ * @åŒ…å com.atguigu
+ * @ç±»å DuDuQiuJian.java
+ * @ä½œè€…   æé“è‹¥ 
+ * @åˆ›å»ºæ—¥æœŸ 2018å¹´11æœˆ28æ—¥
+ * @æè¿° 
+ * @ç‰ˆæœ¬ V1.0
  */
 public class DuDuQiuJian {
 
 	/**  
-	 * @·½·¨Ãû: main  
-	 * @¹¦ÄÜÃèÊö:  
+	 * @æ–¹æ³•å: main  
+	 * @åŠŸèƒ½æè¿°:  
 	 * @param args
-	 * @×÷Õß   ÀîµÀÈô
-	 * @ÈÕÆÚ 2018Äê11ÔÂ28ÈÕ
+	 * @ä½œè€…   æé“è‹¥
+	 * @æ—¥æœŸ 2018å¹´11æœˆ28æ—¥
 	 */
 	public static void main(String[] args) {
+		System.out.println("1111111111111111111111");
+		System.out.println("1111111111111111111111");
 		System.out.println("1111111111111111111111");
 	}
 
